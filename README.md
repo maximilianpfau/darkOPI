@@ -42,7 +42,7 @@ Maximilian Pfau, MD: [maximilian.pfau@iob.ch](maximilian.pfau@iob.ch)
         eprint = {https://arvojournals.org/arvo/content\_public/journal/jov/933489/i1534-7362-12-11-22.pdf},
     }
 
-### Workflow
+### Manual
 
 To run the up, open the `2023-12-14_Adaptometry-App-V7.R` file.
 
@@ -51,7 +51,7 @@ line:
 
     maia.opiInitialize(ip = "192.168.1.2", port=5555)
 
-# darkOPI
+### Workflow
 
 <img src='screenshot.png' align="right" height="300" />
 

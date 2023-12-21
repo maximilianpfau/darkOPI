@@ -17,19 +17,22 @@ Maximilian Pfau, MD: [maximilian.pfau@iob.ch](maximilian.pfau@iob.ch)
 
 ### Citation
 ```
-@article {Oertli2023.06.09.23291212,
-	author = {Jeannine Oertli and Kristina Pfau and Hendrik P.N. Scholl and Brett G. Jeffrey and Maximilian Pfau},
-	title = {Establishing Fully-Automated Fundus-Controlled Dark Adaptometry: A Validation and Retest-Reliability Study},
-	elocation-id = {2023.06.09.23291212},
-	year = {2023},
-	doi = {10.1101/2023.06.09.23291212},
-	publisher = {Cold Spring Harbor Laboratory Press},
-	URL = {https://www.medrxiv.org/content/early/2023/06/12/2023.06.09.23291212},
-	eprint = {https://www.medrxiv.org/content/early/2023/06/12/2023.06.09.23291212.full.pdf},
-	journal = {medRxiv}
+@ARTICLE{Oertli2023-iy,
+  title     = "Establishing fully-automated fundus-controlled dark adaptometry:
+               A validation and retest-reliability study",
+  author    = "Oertli, Jeannine M and Pfau, Kristina and Scholl, Hendrik P N
+               and Jeffrey, Brett G and Pfau, Maximilian",
+  journal   = "Transl. Vis. Sci. Technol.",
+  publisher = "Association for Research in Vision and Ophthalmology (ARVO)",
+  volume    =  12,
+  number    =  12,
+  pages     = "18",
+  month     =  dec,
+  year      =  2023,
+  language  = "en"
 }
 ```
-
+<br> 
 ```
 @article{10.1167/12.11.22,
     author = {Turpin, Andrew and Artes, Paul H. and McKendrick, Allison M.},
